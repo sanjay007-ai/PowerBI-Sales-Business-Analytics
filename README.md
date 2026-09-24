@@ -79,19 +79,19 @@ Key calculations include:
 The report was published to Power BI Service with refresh concepts
 implemented for keeping report data up to date.
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview 
 
 ### Overview
-![Overview](screenshots/01-overview.png)
+Overview Screenshots
 
 ### Revenue Analysis
-![Revenue](screenshots/02-revenue.png)
+Revenue Screenshots
 
 ### Customer & Order Analysis
-![Customer Analysis](screenshots/03-customer-order-analysis.png)
+Customer Analysis Screenshots
 
 ### Business Insights & Performance
-![Business Insights](screenshots/04-business-insights.png)
+Business Insights Screenshots
 
 ## 💡 Key Business Questions
 
