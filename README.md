@@ -1,4 +1,4 @@
-# 📊 DMart Sales & Business Performance Dashboard — Power BI
+# 📊 Sales & Business Performance Dashboard — Power BI
 
 An interactive **4-page Power BI dashboard** designed to analyze retail sales, revenue, profit, customers, orders, regional performance, targets, and overall business performance across Indian states.
 
